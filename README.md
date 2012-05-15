@@ -10,7 +10,7 @@
 Embed the V8 Javascript interpreter into Ruby.
 
 ## BUILD STATUS
-[![Build Status](https://buildhive.beescloud.com/job/swashbuck1r/job/therubyracer/badge/icon)](https://buildhive.beescloud.com/job/swashbuck1r/job/therubyracer/)
+[![Build Status](https://buildhive.beescloud.com/job/recampbell/job/therubyracer/badge/icon)](https://buildhive.beescloud.com/job/recampbell/job/therubyracer/)
 
 ## FEATURES
 
